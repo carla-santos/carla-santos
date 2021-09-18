@@ -18,10 +18,15 @@
 <h4>Desenvolvedora Front-End em crescimento, entusiasta em aprender novas tecnologias e gamer nas horas vagas.</h4><br/>
 
 - 🔭 Atualmente trabalhando no desenvolvimento do meu Portfólio. 
+
 - 🌱 Estou estudando **Javascript ES6+, Git, SEO, Gestão Ágil para projetos com Scrum e Segurança na Web.**
+
 - 🤝 Procuro ajuda em orientação a objetos com Javascript 😔
+
 - 💬 Gosto de trocar ideias e conhecer novas pessoas, então, sinta-se à vontade para entrar em contato comigo 😊
-- 👨‍💻 Meus projetos estão disponíveis em:  **🚀 Em construção...  🚧**
+
+- 👨‍💻 Meus projetos estão disponíveis em: https://github.com/carla-santos?tab=repositories
+
 - ⚡😵 Tentando sobreviver em **The Last of Us 2 😳**
 
 <br/>
