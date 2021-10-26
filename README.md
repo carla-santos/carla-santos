@@ -18,7 +18,7 @@
 
 - 🔭 Atualmente trabalhando no desenvolvimento do meu Portfólio. 
 
-- 🌱 Estou estudando **Javascript ES6+, Git, SEO, Gestão Ágil para projetos com Scrum e Segurança na Web.**
+- 🌱 Estou estudando **Javascript ES6+, Git, SEO, Gestão Ágil para projetos com Scrum, Segurança na Web, Bootstrap 5**
 
 - 🤝 Procuro ajuda em orientação a objetos com Javascript 😔
 
