@@ -7,16 +7,13 @@
 [<img alt="My Anime List" src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white">](https://myanimelist.net/profile/bakum_bicum)
 [<img alt="Playstation" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">](https://psnprofiles.com/Bakum_bicum)
 
-
-
-
 <br/>
 
 ## 💬 *Sobre mim*
 
-<h4>Desenvolvedora Front-End em crescimento, entusiasta em aprender novas tecnologias e gamer nas horas vagas.</h4><br/>
+**Desenvolvedora Front-End em crescimento, entusiasta em aprender novas tecnologias e gamer nas horas vagas.**
 
-- 🔭 Atualmente trabalhando no desenvolvimento do meu Portfólio. 
+<br/>
 
 - 🌱 Estou estudando **Javascript ES6+, Git, SEO, Gestão Ágil para projetos com Scrum, Segurança na Web, Bootstrap 5**
 
