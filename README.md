@@ -20,7 +20,7 @@
 
 <br>
 
-## 🚀 Sobre Mim
+## 🚀 Sobre mim
 
 Após ter contato com o desenvolvimento Front-end, decidi mergulhar fundo no ecossistema **Back-end**. Acredito que uma base sólida em lógica e arquitetura é o que diferencia um bom código, por isso meu foco atual é entender como os sistemas funcionam por "baixo do capô".
 
@@ -32,7 +32,7 @@ Após ter contato com o desenvolvimento Front-end, decidi mergulhar fundo no eco
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### ⚙️ No Radar (O que estou praticando agora)
+### ⚙️ No radar (O que estou praticando agora)
 <div align="left">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
@@ -40,13 +40,13 @@ Após ter contato com o desenvolvimento Front-end, decidi mergulhar fundo no eco
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
-### 🏗️ Futuros Estudos (Próximos Passos)
+### 🏗️ Futuros estudos (Próximos passos)
 <div align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
 </div>
 
-### 🔧 Outras Ferramentas
+### 🔧 Outras ferramentas
 <div align="left">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
@@ -55,16 +55,7 @@ Após ter contato com o desenvolvimento Front-end, decidi mergulhar fundo no eco
 
 <br>
 
-## 📊 Atividade no GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carla-santos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carla-santos&layout=compact&theme=tokyonight&hide=html,css"/> 
-</div>
-
-<br>
-
-## ⚡ Fun Facts
+## ⚡ Fun facts
 
 - 🎮 No momento, explorando galáxias em **Mass Effect: Definite Edition**.
 - 🎌 Fã de animes e curiosa sobre tecnologia e cultura pop.
