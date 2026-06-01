@@ -56,12 +56,6 @@ Após ter contato com o desenvolvimento Front-end, decidi mergulhar fundo no eco
 
 ---
 
-## 📌 Projetos em destaque
-
-- [Spencer Books API](https://github.com/carla-santos/spencerBooks-api) — API REST para gerenciamento de acervo de livros, construída com Node.js e Express.
-
----
-
 ## ⚡ Fun facts
 
 - 🎮 No momento, explorando galáxias em **Mass Effect: Legendary Edition**.
