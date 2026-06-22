@@ -1,40 +1,28 @@
 <h1 align="center">
-  👋 Olá! Sou a Carla Santos 👩‍💻
+  Olá! Sou a Carla Santos 👩‍💻
 </h1>
-
-<p align="center">
-  <em>Desenvolvedora Front-end em transição para o Back-end | Especialista em Javascript e apaixonada por arquitetura</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/carla-santos">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="mailto:carla.devjs@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="#">
-    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
 
 <br>
 
 ## 🚀 Sobre mim
 
-Após ter contato com o desenvolvimento Front-end, decidi mergulhar fundo no ecossistema **Back-end**. Acredito que uma base sólida em lógica e arquitetura é o que diferencia um bom código, por isso meu foco atual é entender como os sistemas funcionam internamente, garantindo segurança, performance e escalabilidade.
+Graduada em Sistemas de Informação e pós-graduada em Administração Pública. Atualmente atuo na esfera federal, em que desenvolvi experiência na análise e otimização de processos administrativos.
 
-- 🔭 **Atualmente:** Avançando em **Node.js**, Express e bancos de dados (SQL e NoSQL).
-- 🎯 **Objetivo:** Aprofundar os meus conhecimentos no back-end com Node.js utilizando Typescript para, em breve, iniciar minha jornada no ecossistema **Java com Spring Boot**.
-- 👩‍💻 **Projetos:** Atualmente me focando em projetos pessoais focados na **Stack Javascript**.
-- 📚 **Interesses:** Sempre buscando aplicar **Clean Code** e boas práticas de **Arquitetura de Software**.
-- 💬 Gosto de trocar ideias e conhecer novas pessoas, então, sinta-se à vontade para entrar em contato comigo 😊
+Busco consolidar minha atuação na área de desenvolvimento de software, com foco em Back-end utilizando Node.js e TypeScript. Tenho interesse em arquitetura de software, qualidade de código, manutenção e construção de soluções que contribuam para a eficiência e modernização dos serviços públicos.
+
+Este perfil reúne projetos e estudos que refletem minha evolução técnica e meu interesse contínuo por tecnologia.
+
+- **Atualmente:** Avançando em **Node.js**, Express e bancos de dados (SQL e NoSQL).
+- **Objetivo:** Aprofundar os meus conhecimentos no back-end com Node.js utilizando Typescript para, em breve, iniciar minha jornada no ecossistema **Java com Spring Boot**.
+- **Projetos:** Atualmente me focando em projetos pessoais focados na **Stack Javascript**.
+- **Interesses:** Sempre buscando aplicar **Clean Code** e boas práticas de **Arquitetura de Software**.
+- Gosto de trocar ideias e conhecer novas pessoas, então, sinta-se à vontade para entrar em contato comigo
 
 Meus projetos e contribuições estão disponíveis no meu GitHub, vale a pena dar uma olhada em: https://github.com/carla-santos?tab=repositories 
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 ### Front‑end: A base
 <div align="left">
@@ -48,11 +36,6 @@ Meus projetos e contribuições estão disponíveis no meu GitHub, vale a pena d
    <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
    <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white"> 
-</div>
-
-### Front-end: Bibliotecas
-<div align="left">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 </div>
 
 ### Ferramentas de build e gerenciadores de pacotes
@@ -102,7 +85,7 @@ Meus projetos e contribuições estão disponíveis no meu GitHub, vale a pena d
 
 ---
 
-## ⚡ Fun facts
+## Fun facts
 
 - No momento, explorando galáxias em **Mass Effect: Legendary Edition**.
 - Fã de animes e curiosa sobre tecnologia e cultura pop.
