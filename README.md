@@ -18,8 +18,6 @@ Este perfil reúne projetos e estudos que refletem minha evolução técnica e m
 - **Interesses:** Sempre buscando aplicar **Clean Code** e boas práticas de **Arquitetura de Software**.
 - Gosto de trocar ideias e conhecer novas pessoas, então, sinta-se à vontade para entrar em contato comigo
 
-Meus projetos e contribuições estão disponíveis no meu GitHub, vale a pena dar uma olhada em: https://github.com/carla-santos?tab=repositories 
-
 ---
 
 ## Tecnologias e Ferramentas
@@ -82,6 +80,14 @@ Meus projetos e contribuições estão disponíveis no meu GitHub, vale a pena d
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white">
 </div>
+
+---
+
+## Projetos em destaque
+
+- [cli-conta-palavras](https://github.com/carla-santos/cli-conta-palavras): Ferramenta de linha de comando (CLI) desenvolvida em Node.js para leitura e processamento de arquivos `.txt`, utilizando Regex e métodos de manipulação de dados para análise textual e geração de relatórios.
+
+Além dos projetos destacados, este perfil reúne outros estudos, experimentos e aplicações desenvolvidas durante minha jornada de aprendizado em desenvolvimento de software: [Link dos projetos](https://github.com/carla-santos?tab=repositories)
 
 ---
 
